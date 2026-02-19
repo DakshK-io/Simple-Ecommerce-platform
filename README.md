@@ -28,13 +28,3 @@ A clean, responsive, and modern front-end template for an e-commerce storefront.
 * **Frontend:** HTML5, CSS3
 * **Scripting:** Vanilla JavaScript
 * **Framework:** Bootstrap 5 (via CDN)
-
----
-
-## 💻 How to Run Locally
-
-Since this project relies entirely on client-side technologies with no backend required, running it is incredibly simple:
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone [https://github.com/dakshk-io/Simple-Ecommerce-platform.git](https://github.com/dakshk-io/Simple-Ecommerce-platform.git)
