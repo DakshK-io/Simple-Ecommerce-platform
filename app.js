@@ -2,42 +2,42 @@ const products = [
     { 
         title: "Wireless Headphones", 
         text: "Premium noise-canceling headphones with 30-hour battery life.", 
-        img: "D:\\to keep\\mern\\download.jpg" 
+        img: "download.jpg" 
     },
     { 
         title: "Smart Watch", 
         text: "Track your fitness and stay connected on the go.", 
-        img: "D:\\to keep\\mern\\download.jpg" 
+        img: "download.jpg" 
     },
     { 
         title: "Minimalist Camera", 
         text: "Capture stunning moments with this compact mirrorless camera.", 
-        img: "D:\\to keep\\mern\\download.jpg" 
+        img: "download.jpg" 
     },
     { 
         title: "Classic Sunglasses", 
         text: "UV400 protection with a timeless, durable frame design.", 
-        img: "D:\\to keep\\mern\\download.jpg" 
+        img: "download.jpg" 
     },
     { 
         title: "Mechanical Keyboard", 
         text: "Tactile switches for the ultimate typing and gaming experience.", 
-        img: "D:\\to keep\\mern\\download.jpg" 
+        img: "download.jpg" 
     },
     { 
         title: "Running Sneakers", 
         text: "Lightweight and breathable for your everyday runs.", 
-        img: "D:\\to keep\\mern\\download.jpg" 
+        img: "download.jpg" 
     },
     { 
         title: "Smart Speaker", 
         text: "Voice-controlled speaker with deep bass and crisp highs.", 
-        img: "D:\\to keep\\mern\\download.jpg" 
+        img: "download.jpg" 
     },
     { 
         title: "Leather Wallet", 
         text: "Genuine leather bifold wallet with RFID blocking technology.", 
-        img: "D:\\to keep\\mern\\download.jpg" 
+        img: "download.jpg" 
     }
 ];
 
